@@ -1,23 +1,20 @@
 # Project Description
 This project is a homework assignment to teach how to get PyCharm setup with Docker, Flask, MySQL and Postman
 
-# PyCharm Table Screenshot
-![pycharm_table](screenshots/DataPyCharm.png)
+# All Records in Postman
+![pycharm_table](screenshots/Postman_AllRecords.png)
 
-# Homepage Screenshot
-![homepage](screenshots/Homepage.png)
+# One Record in Postman
+![homepage](screenshots/Postman_ViewRecord.png)
 
-# View of One Record Screenshot
-![view1record](screenshots/View.png)
+# Create Record in Postman
+![create](screenshots/Postman_CreateRecord.png)
+![created](screenshots/Postman_CreatedRecord.png)
 
-# Add New Record Screenshot
-![adding](screenshots/Add01.png)
-![added](screenshots/Added.png)
+# Edit Record in Postman
+![edit](screenshots/Postman_EditRecord.png)
+![edited](screenshots/Postman_EditedRecord.png)
 
-# Update Record Screenshot
-![updating](screenshots/Update01.png)
-![updated](screenshots/Updated.png)
-
-# Delete Record Screenshot
-![deleting](screenshots/Delete01.png)
-![deleted](screenshots/Deleted.png)
+# Delete Record in Postman
+![delete](screenshots/Postman_DeleteRecord.png)
+![deleted](screenshots/Postman_DeletedRecord.png)
